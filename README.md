@@ -6,7 +6,7 @@ sparklines and more functionality to make it more engaging.
 2. Preprocessing :- Tableau Prep
 3. Dataset :- accident data.csv
 4. Features :-
-  (i). We get to see casualties based on region, road, and weather,
-  (ii). I have used sparklines, doughnut charts, area maps and more,
-  (iii). Use of action filters for data screening and specific display.
+  (i) We get to see casualties based on region, road, and weather,
+  (ii) I have used sparklines, doughnut charts, area maps and more,
+  (iii) Use of action filters for data screening and specific display.
 5. Link :- https://public.tableau.com/app/profile/debkalpa.das7284/viz/AccidentsWorkbook/Dashboard1
