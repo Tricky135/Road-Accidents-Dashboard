@@ -3,8 +3,8 @@ Once that was complete we head into building the each of the charts for the dash
 sparklines and more functionality to make it more engaging. 
 
 Software :- Tableau
-Preprocessing :- Tableau Prep
-Dataset :- accident data.csv
+1. Preprocessing :- Tableau Prep
+2. Dataset :- accident data.csv
 
 Features :-
 (i).We get to see casualties based on region, road, and weather.
