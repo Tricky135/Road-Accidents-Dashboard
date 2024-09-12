@@ -1,4 +1,6 @@
-This dashboard was ade using Tableau. The dataset was taken from kaggle and was preprocessed using Tableau Prep.
+# Road Accidents Dashboard
+
+This project is a dashboard made using Tableau. The dataset was taken from kaggle and was preprocessed using Tableau Prep.
 Once that was complete we head into building the each of the charts for the dashboard. Added action filters,
 sparklines and more functionality to make it more engaging. 
 
