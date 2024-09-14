@@ -1,13 +1,8 @@
 # Road Accidents Dashboard
+An interactive Tableau dashboard visualizing road accident data with engaging charts and filters.
 
-This project is a dashboard made using Tableau. The dataset was taken from kaggle and was preprocessed using Tableau Prep.
-Once that was complete we head into building the each of the charts for the dashboard. Added action filters,
-sparklines and more functionality to make it more engaging. 
+(i). Abstract :- This advanced interactive dashboard, developed using Tableau, provides a comprehensive analysis of road accident occurrences in a designated area. Utilizing a dataset from Kaggle, preprocessed with Tableau Prep, the dashboard features visualizations such as sparklines, doughnut charts, and area maps. Key functionalities include casualty breakdowns by region, road, and weather, and interactive action filters for detailed data exploration. The integration of these elements enhances user engagement and facilitates in-depth analysis of road safety data.
 
-1. Software :- Tableau
-2. Preprocessing :- Tableau Prep
-3. Dataset :- accident data.csv
-4. Features :-
-  (i) We get to see casualties based on region, road, and weather,
-  (ii) I have used sparklines, doughnut charts, area maps and more,
-  (iii) Use of action filters for data screening and specific display.
+(ii). Design :- The dashboard features a user-centric design with a clean, intuitive layout for easy navigation and data interpretation. It incorporates interactive elements such as sparklines and doughnut charts to present trends and proportions clearly. Area maps provide geographic context, while action filters enable users to drill down into specific data segments, such as regions, roads, or weather conditions. The design emphasizes clarity and engagement, allowing users to explore and analyze road accident data effectively through well-organized and visually appealing charts and maps.
+
+(iii). Tools and Dataset :- The dashboard is developed using Tableau for dynamic visualizations and data interaction. The dataset, accident data.csv, was preprocessed with Tableau Prep to ensure clean and relevant data. This preprocessing step prepared the data for effective visualization and analysis within Tableau, enhancing the dashboard's functionality and clarity.
